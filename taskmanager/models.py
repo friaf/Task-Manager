@@ -27,3 +27,4 @@ class Task(db.Model):
             self.id, self.task_name, self.is_urgent
         )
         
+        
